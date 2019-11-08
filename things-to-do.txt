@@ -1,0 +1,7 @@
+magma one-time-works.m;
+
+ magma getting-d-a\'s.m;
+#fill nservers, nthreads according to availability
+bash par-smoothness.sh
+
+magma verify-res.m;
